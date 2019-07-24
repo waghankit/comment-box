@@ -1,0 +1,66 @@
+
+img{
+    float: left;
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    margin-right: 10px
+}
+
+.btn{
+	display: inline-block;
+	padding: 5px 10px;
+	font-weight: lighter;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 200px;
+	transition: background-color 0.2s, border 0.2s, color 0.2;
+}
+
+
+.btn-primary{
+	border: 1px solid #bf55ec;
+}
+
+.btn-primary:hover{
+	background-color: #bf55ec;
+}
+
+.btn-danger{
+	border: 1px solid #bf55ec;
+}
+
+.btn-danger:hover{
+	background-color: #bf55ec;
+}
+
+.date{
+    float: right;
+}
+
+.user-comment{
+    margin-left: 15px;
+    padding-top: 10px;
+}
+
+.full-name{
+    float: left;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.buttons{
+    text-align: left;
+    padding-right: 450px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+#button1, #button2{
+    display: inline-block
+}
+
+.comment-list{
+    padding-bottom: 20px
+}
+
